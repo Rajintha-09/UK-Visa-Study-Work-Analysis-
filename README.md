@@ -55,9 +55,10 @@ See `powerbi/dashboard_screenshot.png` for a visual overview of the analysis.
 
 ## Authors / Team Members
 
-**Rajintha Hewanayaka**
-Bsc in Applied Data Science and Communication
-Advanced SQL and Cloud Databases 
+**Rajintha Hewanayaka<br>**
+BSc in Applied Data Science and Communication<br>
+Advanced SQL and Cloud Databases
+
 
 **Team Members/ Contributors:**
 - Muhammed Nasir  
