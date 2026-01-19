@@ -19,14 +19,14 @@ distribution, and extensions of stay, covering the period:
 - GitHub (Version control and project documentation)
 
 ## Project Structure
+```
 UK-Visa-Study-Work-Analysis/
 │
-├── README.md
 ├── report/
 │   └── UK_Study_Work_Visa_Analysis_Report.pdf
 ├── data/
 │   ├── study/
-│   │   └──Study_Sponsorship_2024/
+│   │   └── Study_Sponsorship_2024/
 │   │   ├── Study_ByInstitutionType.xlsx
 │   │   └── Study_ByNationality.xlsx
 │   └── work/
@@ -38,8 +38,9 @@ UK-Visa-Study-Work-Analysis/
 ├── powerbi/
 │   ├── Dashboard.pbix
 │   └── dashboard_screenshot.png
+└── README.md
 
-
+```
 ## Key Insights
 - Study visa applications dominate overall UK visa demand
 - China and India are the top nationalities across study and work visas
