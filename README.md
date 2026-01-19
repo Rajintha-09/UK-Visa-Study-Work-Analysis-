@@ -1,3 +1,5 @@
+# UK Study and Work Visa Applications – Data Analysis
+Data-driven analysis of UK study and work visa applications using SQL Server and Power BI
 
 ## Project Overview
 This project presents a data-driven analysis of UK Study and Work Visa applications using 
@@ -27,12 +29,12 @@ UK-Visa-Study-Work-Analysis/
 ├── data/
 │   ├── study/
 │   │   └── Study_Sponsorship_2024/
-│   │   ├── Study_ByInstitutionType.xlsx
-│   │   └── Study_ByNationality.xlsx
+│   │       ├── Study_ByInstitutionType.xlsx
+│   │       └── Study_ByNationality.xlsx
 │   └── work/
 │       └── Work_Sponsorship_2023/
-│       ├── Work_ByIndustry.xlsx
-│       └── Work_ByNationality.xlsx
+│           ├── Work_ByIndustry.xlsx
+│           └── Work_ByNationality.xlsx
 ├── sql/
 │   └── analysis_queries.sql
 ├── powerbi/
@@ -63,5 +65,3 @@ Advanced SQL and Cloud Databases
 
 ## Acknowledgements
 Special thanks to all team members for this support and contributions to this project
-
-
