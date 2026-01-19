@@ -54,6 +54,7 @@ UK-Visa-Study-Work-Analysis/
 See `powerbi/dashboard_screenshot.png` for a visual overview of the analysis.
 
 ## Authors / Team Members
+
 **Rajintha Hewanayaka**
 Bsc in Applied Data Science and Communication
 Advanced SQL and Cloud Databases 
